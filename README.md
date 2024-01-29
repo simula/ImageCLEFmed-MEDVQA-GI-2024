@@ -17,7 +17,7 @@ TBA
 The evaluation of these subtasks will be based on a subjective evaluation done by a committee and how accurately a model trained on these AI-generated images can classify real medical images. This will further be analyzed on both single-center and multi-center datasets, providing a comprehensive analysis of the model's performance. Metrics we will use for the task are Fréchet Inception Distance (FID) and standard classification metrics like accuracy, precision, recall, and F1 score on both single-center and multi-center datasets. In addition, the robustness of the model across different centers, representing the model's generalisation capabilities, will also be evaluated.
 
 ## Participant registration
-Please refer to the general ImageCLEF registration instructions: [https://www.imageclef.org/2023](https://www.imageclef.org/2023).
+Please refer to the general ImageCLEF registration instructions: [https://www.imageclef.org/2024](https://www.imageclef.org/2024).
 
 # Submission Instructions
 TBA
@@ -35,7 +35,6 @@ TBA
 * 09-12.09.2024: CLEF 2024, Grenoble, France
 
 ## Organizers
-
 * Steven A. Hicks <steven(at)simula.no>, SimulaMet, Norway
 * Michael A. Riegler <michael(at)simula.no>, SimulaMet, Norway
 * Vajira Thambawita  <vajira(at)simula.no>, SimulaMet, Norway
