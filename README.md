@@ -26,7 +26,7 @@ TBA
 * 30.11.2023: registration opens for all ImageCLEF tasks
 * 22.04.2024: registration closes for all ImageCLEF tasks
 * 01.02.2024: Release of the training and validation sets
-* 01.04.2024: Release of the test sets
+* 03.04.2024: Release of the test sets
 * 06.05.2024 : deadline for submitting the participants runs
 * 13.05.2024 : release of the processed results by the task organizers
 * 31.05.2024 : deadline for submission of working notes papers by the participants
