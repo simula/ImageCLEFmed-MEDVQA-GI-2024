@@ -21,7 +21,15 @@ The evaluation of these subtasks will be based on a subjective evaluation done b
 Please refer to the general ImageCLEF registration instructions: [https://www.imageclef.org/2024](https://www.imageclef.org/2024).
 
 # Submission Instructions
-TBA
+
+**Task 1: Image Synthesis**
+Please submit the images you have generated based on the prompts we provided.
+
+**Task 2: Optimal Prompt Generation**
+For this task, you are required to submit both the prompts and the models you have used to generate images. Please organize your submissions by category for our ease of evaluation. 
+
+**Submission Instructions:**
+Please email your submissions directly to me at this email address (steven@simula.no).
 
 ## Preliminary Schedule
 * 30.11.2023: registration opens for all ImageCLEF tasks
