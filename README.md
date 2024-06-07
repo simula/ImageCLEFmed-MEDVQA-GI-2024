@@ -11,7 +11,8 @@ The first subtask, Image Synthesis (IS), requires participants to leverage text-
 The second subtask, Optimal Prompt Generation (OPG), requires generating optimal textual prompts that could guide an off-the-shelf generative model in creating realistic medical images. These images can range from imaging modalities such as magnetic resonance imaging, CT scans, to endoscopic images of various medical conditions. Given an off-the-shelf generative model and a medical condition, such as "late stage stomach ulcer," participants must generate an optimal textual prompt that would guide the model to produce the most accurate and realistic image of the condition.
 
 ## Data
-TBA
+* The development dataset can be found here: https://drive.google.com/file/d/1bZ27-A3RLTYot65swbtu0A3p4O9Asp0-/view?u...
+* The testing dataset containing the prompts that should be used to generate the dataset for Task 1 can be found here: https://drive.google.com/file/d/1WGmSUHog2-vTlu0hKx97jVL8VZwQI06J
 
 ## Evaluation methodology
 The evaluation of these subtasks will be based on a subjective evaluation done by a committee and how accurately a model trained on these AI-generated images can classify real medical images. This will further be analyzed on both single-center and multi-center datasets, providing a comprehensive analysis of the model's performance. Metrics we will use for the task are Fréchet Inception Distance (FID) and standard classification metrics like accuracy, precision, recall, and F1 score on both single-center and multi-center datasets. In addition, the robustness of the model across different centers, representing the model's generalisation capabilities, will also be evaluated.
@@ -20,13 +21,21 @@ The evaluation of these subtasks will be based on a subjective evaluation done b
 Please refer to the general ImageCLEF registration instructions: [https://www.imageclef.org/2024](https://www.imageclef.org/2024).
 
 # Submission Instructions
-TBA
+
+**Task 1: Image Synthesis**
+Please submit the images you have generated based on the prompts we provided.
+
+**Task 2: Optimal Prompt Generation**
+For this task, you are required to submit both the prompts and the models you have used to generate images. Please organize your submissions by category for our ease of evaluation. 
+
+**Submission Instructions:**
+Please email your submissions directly to steven@simula.no.
 
 ## Preliminary Schedule
 * 30.11.2023: registration opens for all ImageCLEF tasks
 * 22.04.2024: registration closes for all ImageCLEF tasks
 * 01.02.2024: Release of the training and validation sets
-* 01.04.2024: Release of the test sets
+* 03.04.2024: Release of the test sets
 * 06.05.2024 : deadline for submitting the participants runs
 * 13.05.2024 : release of the processed results by the task organizers
 * 31.05.2024 : deadline for submission of working notes papers by the participants
