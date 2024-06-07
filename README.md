@@ -31,6 +31,62 @@ For this task, you are required to submit both the prompts and the models you ha
 **Submission Instructions:**
 Please email your submissions directly to steven@simula.no.
 
+# Paper Submission
+Working note papers should describe your aproach and results. Below you will find submission instructiosn, a Latex template for the working notes, and CEUR-WS Copyright form that is **required** if your paper is to get published.
+
+* [Instructions for Authors (PDF)](https://clef2024.imag.fr/publication_instructions/07-working-notes-instructions.pdf)
+* [Latex Template (download .zip)](https://clef2024.imag.fr/publication_instructions/CLEF2024-CEUR-template-latex.zip)
+* [CEUR-WS Copyright Form](https://clef2024.imag.fr/publication_instructions/AUTHOR-AGREEMENT.pdf)
+
+## Citation
+Please add these citations to you paper:
+
+```
+@inproceedings{ImageCLEFmedicalVQAOverview2023,
+	title = {Overview of ImageCLEFmedical 2024 – Medical Visual Question Answering for Gastrointestinal Tract},
+	author = {Hicks, Steven A. and Storås, Andrea and Halvorsen, Pål and Riegler, Michael A. and Thambawita, Vajira},
+	year = 2024,
+	month = {September},
+	booktitle = {CLEF2024 Working Notes},
+	publisher = {CEUR-WS.org},
+	address = {Grenoble, France},
+	series = {{CEUR} Workshop Proceedings}
+}
+@inproceedings{ImageCLEFmedicalVQAOverview2023,
+	title = {Overview of ImageCLEFmedical 2023 – Medical Visual Question Answering for Gastrointestinal Tract},
+	author = {Hicks, Steven A. and Storås, Andrea and Halvorsen, Pål and de Lange, Thomas and Riegler, Michael A. and Thambawita, Vajira},
+	year = 2023,
+	month = {September},
+	booktitle = {CLEF2023 Working Notes},
+	publisher = {CEUR-WS.org},
+	address = {Thessaloniki, Greece},
+	series = {{CEUR} Workshop Proceedings}
+}
+@article{borgli2020hyperkvasir,
+	title = {HyperKvasir, a comprehensive multi-class image and video dataset for gastrointestinal endoscopy},
+	author = {Borgli, Hanna and Thambawita, Vajira and Smedsrud, Pia H and Hicks, Steven and Jha, Debesh and Eskeland, Sigrun L and Randel, Kristin Ranheim and Pogorelov, Konstantin and Lux, Mathias and Nguyen, Duc Tien Dang and others},
+	year = 2020,
+	journal = {Scientific data},
+	volume = 7,
+	number = 1,
+	doi = {10.1038/s41597-020-00622-y}
+}
+@inproceedings{kvasir-instruments,
+	title = {{Kvasir-Instrument: Diagnostic and Therapeutic Tool Segmentation Dataset in Gastrointestinal Endoscopy}},
+	author = {Jha, Debesh and Ali, Sharib and Emanuelsen, Krister and Hicks, Steven A. and Thambawita, Vajira and Garcia-Ceja, Enrique and Riegler, Michael A. and de Lange, Thomas and Schmidt, Peter T. and Johansen, H{\aa}vard D. and Johansen, Dag and Halvorsen, P{\aa}l},
+	year = 2021,
+	booktitle = {Proceedings of the International Conference on MultiMedia Modeling (MMM)},
+	pages = {218--229},
+	url = {https://doi.org/10.1007/978-3-030-67835-7_19}
+}
+@inproceedings{jha2023gastrovision,
+	title = {GastroVision: A Multi-class Endoscopy Image Dataset for Computer Aided Gastrointestinal Disease Detection},
+	author = {Debesh Jha*, Vanshali Sharma*, Neethi Dasu, Nikhil Kumar Tomar, Steven Hicks, M.K. Bhuyan, Pradip K. Das, Michael A. Riegler, P{\aa}l Halvorsen, Thomas de Lange, Ulas Bagci},
+	year = 2023,
+	booktitle = {ICML Workshop on Machine Learning for Multimodal Healthcare Data (ML4MHD 2023)}
+}
+```
+
 ## Preliminary Schedule
 * 30.11.2023: registration opens for all ImageCLEF tasks
 * 22.04.2024: registration closes for all ImageCLEF tasks
