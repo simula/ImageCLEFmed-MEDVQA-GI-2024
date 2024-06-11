@@ -42,7 +42,7 @@ Working note papers should describe your aproach and results. Below you will fin
 Please add these citations to you paper:
 
 ```
-@inproceedings{ImageCLEFmedicalVQAOverview2023,
+@inproceedings{ImageCLEFmedicalVQAOverview2024,
 	title = {Overview of ImageCLEFmedical 2024 – Medical Visual Question Answering for Gastrointestinal Tract},
 	author = {Hicks, Steven A. and Storås, Andrea and Halvorsen, Pål and Riegler, Michael A. and Thambawita, Vajira},
 	year = 2024,
